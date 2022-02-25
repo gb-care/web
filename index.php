@@ -37,11 +37,11 @@ body, html {height: 100%}
     <br>
    <br>
    <br>
-   <br><br><br>
+   <br>
 
    
     <p class="w3-large w3-center">Let's live to the fullest!</p>
-    <button type="button" class="btn btn-secondary btn-lg w3-container w3-display-middle" ><a href="open.php">START NOW!</button></a>
+    <button type="button" class="btn btn-secondary btn-lg w3-container w3-display-middle "><a href="open.php" class="w3-text-white">START NOW!</button></a>
   </div>
   <div class="w3-display-bottomleft w3-padding-large">
     <a>Copyright @2022</a>
