@@ -37,7 +37,7 @@ body, html {height: 100%}
     <br>
    <br>
    <br>
-   <br>
+   <br><br><br>
 
    
     <p class="w3-large w3-center">Let's live to the fullest!</p>
